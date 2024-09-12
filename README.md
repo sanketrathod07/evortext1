@@ -1,4 +1,4 @@
-![Shopping Time]([https://raw.githubusercontent.com/catherineisonline/shopping-time/main/src/assets/images/project-preview.webp](https://ecomvortex-51c63.web.app/static/media/men1Copy.244a4f62526e433b85cb.jpg))
+![Shopping Time](https://raw.githubusercontent.com/catherineisonline/shopping-time/main/src/assets/images/project-preview.webp](https://ecomvortex-51c63.web.app/static/media/men1Copy.244a4f62526e433b85cb.jpg))
 
 # [Shopping Time](https://shopping-time.vercel.app/](https://ecomvortex-51c63.web.app/)
 Shopping Time is an e-commerce website that has at least 150 women's clothing products with different sizes and color choices. You can choose various attributes like size and color. There is a cart where you can see added items and edit, add, or remove them. You can also set a currency of your choice.
