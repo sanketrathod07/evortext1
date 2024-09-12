@@ -1,0 +1,80 @@
+.collapsible-section {
+    font-size: 17px;
+    font-family: Inter, sans-serif;
+    flex: 1 1 auto;
+    /* Ensures flexibility */
+    font-weight: 400;
+    color: #121212;
+    max-width: 100%;
+    /* Ensures it doesn't exceed container width */
+    box-sizing: border-box;
+    /* Includes padding and border in width calculations */
+    overflow: hidden;
+    /* Prevents overflow of the content */
+}
+
+.collapsible-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    word-break: break-word;
+    cursor: pointer;
+    padding: 15px 15px;
+    font-size: 14px;
+    color: #333;
+    font-weight: 400;
+}
+
+.collapsible-title {
+    margin: 0;
+    font-weight: 600;
+}
+
+.collapsible-icon {
+    font-size: 0.8rem;
+    color: #888;
+}
+
+.collapsible-content {
+    background-color: #f9f9f9;
+    margin-top: 10px;
+    padding: 0px 14px;
+    border-radius: 5px;
+    font-size: 14px;
+    line-height: 1.6;
+    color: #000000;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 0;
+    transition: max-height 0.4s ease-out;
+}
+
+.collapsible-item {
+    margin: 5px 0;
+}
+
+.contact-info p {
+    display: inline-block;
+    margin: 5px 0;
+    font-size: 0.9rem;
+    color: #333;
+    display: flex;
+    align-items: center;
+    width: 50%;
+}
+
+.collapsible-section.expanded .collapsible-content {
+    max-height: 500px;
+    transition: max-height 0.4s ease-in;
+    padding: 1rem 1rem;
+}
+
+/* To prevent long text from breaking the layout */
+.collapsible-content p,
+.collapsible-content div {
+    word-break: break-word;
+    overflow-wrap: break-word;
+    font-size: 14px;
+    color: #121212;
+    margin-bottom: 8px;
+}
