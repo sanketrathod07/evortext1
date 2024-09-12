@@ -1,9 +1,9 @@
-![Shopping Time](https://raw.githubusercontent.com/catherineisonline/shopping-time/main/src/assets/images/project-preview.webp)
+![Shopping Time]([https://raw.githubusercontent.com/catherineisonline/shopping-time/main/src/assets/images/project-preview.webp](https://ecomvortex-51c63.web.app/static/media/men1Copy.244a4f62526e433b85cb.jpg))
 
-# [Shopping Time](https://shopping-time.vercel.app/)
+# [Shopping Time](https://shopping-time.vercel.app/](https://ecomvortex-51c63.web.app/)
 Shopping Time is an e-commerce website that has at least 150 women's clothing products with different sizes and color choices. You can choose various attributes like size and color. There is a cart where you can see added items and edit, add, or remove them. You can also set a currency of your choice.
 
-## Functionality Overview
+# Functionality Overview
 Below is a comprehensive overview of the functionalities that the website offers:
 
 ### Managing Your Cart
@@ -37,10 +37,6 @@ Below is a comprehensive overview of the functionalities that the website offers
 - Use Firebase to save data externally
 
 
-## Getting Started with Create React App
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
 To get started you need to:
 
 1. Clone the project
@@ -63,7 +59,6 @@ You may also see any lint errors in the console.
 ### `npm test`
 
 Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
 ### `npm run build`
 
@@ -72,8 +67,6 @@ It correctly bundles React in production mode and optimizes the build for the be
 
 The build is minified and the filenames include the hashes.\
 Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
 ### `npm run eject`
 
@@ -91,10 +84,6 @@ You don't have to ever use `eject`. The curated feature set is suitable for smal
 - [React Slider](https://www.npmjs.com/package/react-simple-image-slider)
 - [uuid](https://www.npmjs.com/package/uuid)
 - [Firestore](https://firebase.google.com/docs/firestore)
-
-## Contribution <a id="contribution"></a>
-
-This project serves as a personal portfolio website to show off my personal skills. I do not accept any contributions like pull requests to this project however if you have any suggestions or ideas feel free to contact me or submit an idea in the [discussions](https://github.com/catherineisonline/shopping-time/discussions). Otherwise, you are free to fork this project and change it for your own purposes. 
 
 ## License  <a id="license"></a>
 This project is released under the MIT [LICENSE](https://github.com/catherineisonline/shopping-time/blob/main/LICENSE). You can find the specific terms and conditions outlined in the LICENSE file. This means you're free to utilize, modify, and distribute the project according to the terms of the MIT License.
